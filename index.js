@@ -9,3 +9,4 @@ if(12<13){
 }
 
 const c = 14
+console.log('kkkkkkkk conflito')
