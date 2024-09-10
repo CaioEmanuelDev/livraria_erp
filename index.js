@@ -8,6 +8,7 @@ if(12<13){
   console.log("Maior que 13")
 }
 
+const c = 14
 console.log('kkkkkkkk conflito')
 
 const d = 10
