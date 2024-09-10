@@ -9,3 +9,5 @@ if(12<13){
 }
 
 console.log('kkkkkkkk conflito')
+
+const d = 10
